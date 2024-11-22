@@ -1,0 +1,26 @@
+{8 items
+key:
+4
+updateAuthority:
+"TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM"
+mint:
+"8quAVLdwLG87cwkbQ8AurwhWR4GqM8XXyP2udnvcpump"
+data:{4 items
+name:
+"Make Crypto Great Again"
+symbol:
+"MCGA"
+uri:
+"https://ipfs.io/ipfs/QmbM1d5ZksQT5bYBjBnwJxY7ZJ8ca5QXQ5bDHmJzZSZ6WE"
+sellerFeeBasisPoints:
+0
+}
+primarySaleHappened:
+0
+isMutable:
+0
+editionNonce:
+254
+tokenStandard:
+2
+}
